@@ -13,15 +13,14 @@
 ### PART ONE - Review of Objects ####
 
 # Assign your name to a variable called `my_name`
-my_name = "George Hixson"
 
 # Assign the number of pets you have to a variable called `num_pets`
-num_pets = 1
+
 
 # Assign the title of your favorite book as a variable called `favorite_book`
-favorite_book = "twilight"
+
 # Create a variable called `radius`, which is your favorite number
-radius = 5 
+
 # Create a variable called `area`, which is the area of a circle with that radius.
 # Use the variable `radius` to calculate this. 
 # Use the built-in constant `pi` for pi.
@@ -67,3 +66,9 @@ radius = 5
 # Create a variable `sum_round` that is the sum of the rounded values
 
 # Print out both variables and compare. Are they the same?
+my_name = "George Hixson"
+num_pets = 1
+favorite_book = "twilight"
+radius = 5
+area = pi*radius^2
+
