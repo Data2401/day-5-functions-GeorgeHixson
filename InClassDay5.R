@@ -71,4 +71,23 @@ num_pets = 1
 favorite_book = "twilight"
 radius = 5
 area = pi*radius^2
-
+too_big = area > 100
+my_name
+area
+too_big
+name_length = nchar(my_name)
+name_length
+now_doing = paste(my_name, "is programming!")
+now_doing = toupper(now_doing)
+fav_1 = 49
+fav_2 = 77
+fav_1 = fav_1 / sqrt(201)
+fav_2 = fav_2 / sqrt(201)
+raw_sum = sum(fav_1, fav_2)
+round_sum = round(raw_sum, 2)
+round_1 = round(fav_1, 2)
+round_2 = round(fav_2, 2)
+sum_round = sum(round_1, round_2)
+print(sum_round)
+print(raw_sum)
+#they are not the same but would be if raw_sum was rounded to 2 decimal places
